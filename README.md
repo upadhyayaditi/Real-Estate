@@ -8,7 +8,7 @@ Welcome to SwiftHomes, your all-in-one destination for buying, selling, and rent
 
 
 ### Why/Problem?
-In today's fast-paced world, finding the perfect property can be daunting. With SwiftHomes, we aim to revolutionize the real estate experience by offering a user-friendly platform that caters to all your real estate needs.
+In today's fast-paced world, finding the perfect property can be daunting, With SwiftHomes, we aim to revolutionize the real estate experience by offering a user-friendly platform that caters to all your real estate needs.
 
 
 ## **Features:**
