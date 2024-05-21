@@ -1,4 +1,4 @@
-# SwiftHomes: Your Ultimate Real Estate Solution :star2:
+# SwiftHomes: Real Estate Solution :star2:
 
 
 
